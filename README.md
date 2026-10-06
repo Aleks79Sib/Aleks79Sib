@@ -3,10 +3,11 @@
 **я DevOps, Prompt Engineer**
 
 **Разрабатываю и внедряю ИИ-решения, которые сокращают расходы и значительно ускоряют бизнес-процессы!**
+**Администрирую и разворачиваю сервера**
 
 💡 Специализация: 
 - DevOps [Мои проекты](https://github.com/Aleks79Sib/MyDevOps)
-- внедрение ИИ в бизнес-процессы.  
+- Автоматизация бизнес-процессов, внедрение ИИ в процессы .  
 
 ---
 ### ⚡ **Скилсет**
@@ -32,8 +33,8 @@ LangChain |Fine-tuning (PyTorch) |
 
 ### 💻 **Программирование и инфраструктура**
 ```python
-Python | Swift | Bash | Linux
-Docker | Docker Swarm | Ansible | Consul | Vagrant | Kubernetes
+Python | Swift | Bash | Linux Ubuntu
+Docker | Docker Swarm | Ansible | Consul | Vagrant | Kubernetes | Grafana | Prometeus | Gitlab CI/CD
 GitHub | GitLab| Jupyter | Replit | n8n |Make | Zapier | Albato |Voiceflow | Bootstrap | Flask
 Google Sheet 
 Adalo| Glide| 
@@ -67,6 +68,7 @@ Git контроль версий
 * онлайн обучения по программе "IOS разработчик с нуля" от компании  [Netology](https://netology.ru) 2022
 * онлайн обучение по программе "Поколение Python" от компании [Stepik](https://stepik.org) 2023
 * онлайн обучение по программе "Промпт инженеринг" от компании Университет Зерокодинга [Zerocoder](https://zerocoder.ru) 2025
+* обучение по программе "Devops" Школа 21 2025-2026
   
 
 📫 **Давайте работать вместе!** → [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Aleks79Sib) | [Portfolio N8N](https://github.com/lelik26/-n8n/blob/main/README.md)|[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lelik.van-23@yandex.ru)
